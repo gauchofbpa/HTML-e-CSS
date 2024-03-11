@@ -1,0 +1,39 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: rgb(236,236,236);
+	font-family: system-ui;
+}
+
+header {
+	color: white;
+	background-color: rgb(51, 51, 51);
+	text-align: center;
+	font-family: Arial;
+	padding: 5px 0px;
+}
+
+footer {
+	color: white;
+	background-color: rgb(51, 51, 51);
+	text-align: center;
+	font-family: Arial;
+	padding: 5px 0px;
+}
+
+h3 {
+	color: black;
+}
+
+hr {
+	border-top: 1px solid white;
+}
+
+div {
+	margin: 15px;
+}
+
+section {
+	background-color: white;
+	margin: 0px;
+}
